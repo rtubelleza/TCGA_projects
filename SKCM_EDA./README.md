@@ -1,1 +1,1 @@
-
+Exploratory data analysis, clustering, classification, regression, etc. of metadata (age, sex), gene expression and methylation levels of skin cutaneous melanoma samples in R. Datasets originally from https://portal.gdc.cancer.gov/projects/TCGA-SKCM. Processed into SKCM_data.rdata. Available as easy to read format in the .html file.
